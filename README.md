@@ -1,4 +1,4 @@
-# -dev1-Notlar-m
+# Odev1-Notlarim
  Console.WriteLine("Helloo Worllldd");
  Console.WriteLine("slm");
  Console.Write("nasıl");
